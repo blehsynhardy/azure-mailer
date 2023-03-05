@@ -8,4 +8,20 @@ step 2
     download node js v16 above  = https://nodejs.org/en/download/
 
 step 3 
+    open terminal
     
+    run npm install
+
+    all packages install
+
+step 4
+
+    load your leads (list of emails)
+    lead.txt
+    lead sample
+    blesxxxx@gmail.com
+    ayxxxx@gold.com
+
+step 5
+    run shell
+    node index.js
